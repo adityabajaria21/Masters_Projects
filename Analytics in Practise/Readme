@@ -1,0 +1,19 @@
+Built a review propensity model that identifies likely 4 to 5 star reviewers, enabling targeted prompts and incentives rather than blanket campaigns. 
+
+Translated scores into an actionable targeting plan, with probability thresholds that balance scale, hit rate, and budget, so marketing can pick the optimal cut off for each campaign. 
+
+Reduced incentive waste by focusing on high likelihood customers, improving cost per positive review compared with untargeted outreach. The targeting table in the report shows trade offs by threshold choice. 
+
+Surfaced clear operational levers for CX and logistics, faster and more reliable deliveries correlate with higher positive review rates, which informs SLA priorities and post purchase messaging. 
+
+Provided category and customer insights that guide merchandising and CRM, certain product groups and repeat purchase signals lift review positivity, which supports smarter campaign segmentation. 
+
+Established business ready evaluation, precision, recall, F1, ROC AUC, plus simple calibration checks, so leaders understand accuracy and risk at decision time. 
+
+Delivered stakeholder friendly artefacts, an executive pitch for management and a technical report for analytics teams, aligned with the assignment’s CRISP DM and presentation requirements. 
+
+Created a reproducible path to deployment, a clean analytical base table, feature logic, and model selection criteria, which shortens time to integrate with CRM triggers and marketing automation. 
+
+Linked model outputs to commercial outcomes, higher review volume and quality, stronger buyer trust, and improved marketplace reputation, which supports conversion and seller performance. 
+
+Framed success criteria for future A/B tests, compare targeted versus generic prompts on positive review rate and cost per positive review, then tune the threshold by business goal.
